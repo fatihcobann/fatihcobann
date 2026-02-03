@@ -20,16 +20,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=php,python,html,css,flutter,java" />
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🌱 Mower Madness
