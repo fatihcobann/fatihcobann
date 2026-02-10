@@ -78,9 +78,9 @@
 
 ## 📫 Contact Me
 
+* 🌐 **Portfolio:** www.fatihcbn.com
 * 📧 **Email:** [fatihcoban446@gmail.com](mailto:fatihcoban446@gmail.com)
 * 💼 **LinkedIn:** (https://www.linkedin.com/in/fatihcobannn/)
-* 🌐 **Portfolio** www.fatihcbn.com
 
 ---
 
