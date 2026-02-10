@@ -79,7 +79,7 @@
 ## 📫 Contact Me
 
 * 📧 **Email:** [fatihcoban446@gmail.com](mailto:fatihcoban446@gmail.com)
-* 💼 **GitHub:** [https://github.com/fatihcobann](https://github.com/fatihcobann)
+* 💼 **LinkedIn:** [[https://github.com/fatihcobann](https://github.com/fatihcobann)](https://www.linkedin.com/in/fatihcobannn/)
 
 ---
 
