@@ -12,7 +12,7 @@
 
 ## 🌈 About Me
 
-* 💻 **Web Developer | UI/UX Designer | IT Management**
+* 💻 **Backend Developer | UI/UX Designer | IT Management**
 * 🎓 Computer Programming student
 * 🧠 I consider myself successful in **algorithms and problem solving**, and I enjoy creating creative solutions to complex problems through my **analytical thinking skills** 🧩💡
 * 🚀 I focus on continuously improving myself by keeping up with new technologies, and I enjoy applying what I learn directly to my projects
